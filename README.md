@@ -12,7 +12,7 @@ Find the following information about this article:
 # Graphical Abstract
 
 ---------------------------
-
+![gAbstract](./img/gAbstract.png)
 
 # Highlight
 
