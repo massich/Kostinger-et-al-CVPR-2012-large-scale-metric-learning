@@ -18,8 +18,7 @@ Find the following information about this article:
 ---------------------------
 
 #. What is the similitude between 2 points??                              
-    * if
-    ![equation](http://bit.ly/1A8M9WN "test")
+    * if $$x \in R$$
 
 # Discussions
 
